@@ -1,5 +1,7 @@
 # Statistical Test for Cyber
-Chi-Square Test Purpose: To determine if there’s a statistically significant association between the time of day and type of cybersecurity incident. Hypotheses:
+Chi-Square Test Purpose: To determine if there’s a statistically significant association between the time of day and type of cybersecurity incident.
+
+Hypotheses:
 
 Null Hypothesis (H₀): There is no association between the time of day and the type of cybersecurity incident (i.e., they are independent). 
 Alternative Hypothesis (H₁): There is an association between the time of day and the type of cybersecurity incident (i.e., they are dependent).
